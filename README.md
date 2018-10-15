@@ -37,3 +37,8 @@ Exercise #3
 Finish up
 ---------
 Once you're finished, commit & push your changes, send us a link to your fork.
+
+How to execute
+---------
+Once you're finished, commit & push your changes, send us a link to your fork.
+
