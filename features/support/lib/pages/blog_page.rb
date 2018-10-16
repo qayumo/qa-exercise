@@ -1,0 +1,3 @@
+class BlogPage < ValtechPage
+
+end
